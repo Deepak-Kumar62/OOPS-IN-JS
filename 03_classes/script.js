@@ -11,6 +11,7 @@
 // console.log(typeof CreateUser)
 // console.log(CreateUser.prototype)
 
+// behind the scene, class is also a function
 class CreateUser {
   constructor(firstName, lastName, age) {
     this.firstName = firstName;
