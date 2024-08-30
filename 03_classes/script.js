@@ -12,6 +12,7 @@
 // console.log(CreateUser.prototype)
 
 // behind the scene, class is also a function
+// type of class is function
 class CreateUser {
   constructor(firstName, lastName, age) {
     this.firstName = firstName;
